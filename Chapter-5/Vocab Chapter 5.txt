@@ -1,0 +1,7 @@
+Vocab Chapter 5
+
+Psuedocode        Flowchart        Sequence Structure        Decision Structure
+
+Boolean values        if statement        equivalency operator        if-else sttement
+
+if clause        else clause        ternary operator         function           switch statement     NOT operator
